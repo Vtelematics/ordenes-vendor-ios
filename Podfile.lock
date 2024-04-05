@@ -1,0 +1,62 @@
+PODS:
+  - Alamofire (4.9.1)
+  - GoogleMaps (5.2.0):
+    - GoogleMaps/Maps (= 5.2.0)
+  - GoogleMaps/Base (5.2.0)
+  - GoogleMaps/Maps (5.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (5.1.0)
+  - IQKeyboardManagerSwift (6.5.0)
+  - LabelSwitch (0.1.7)
+  - LCSlideMenu (2.2)
+  - MBProgressHUD (1.0.0)
+  - OneSignal (2.14.2)
+  - OpalImagePicker (2.0.0)
+  - ReachabilitySwift (5.0.0)
+  - SDWebImage (3.8.3):
+    - SDWebImage/Core (= 3.8.3)
+  - SDWebImage/Core (3.8.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - GoogleMaps
+  - GooglePlaces
+  - IQKeyboardManagerSwift (= 6.5.0)
+  - LabelSwitch
+  - LCSlideMenu
+  - MBProgressHUD (~> 1.0.0)
+  - OneSignal (< 3.0, >= 2.7.1)
+  - OpalImagePicker (~> 2.0.0)
+  - ReachabilitySwift
+  - SDWebImage (~> 3.8)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GoogleMaps
+    - GooglePlaces
+    - IQKeyboardManagerSwift
+    - LabelSwitch
+    - LCSlideMenu
+    - MBProgressHUD
+    - OneSignal
+    - OpalImagePicker
+    - ReachabilitySwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  GoogleMaps: 025272d5876d3b32604e5c080dc25eaf68764693
+  GooglePlaces: c57cd5aa7e91d10fa5106c792de74f3bd6436260
+  IQKeyboardManagerSwift: 6cd19976c6e871907c4ed9127c2d3affdd4defc2
+  LabelSwitch: 97b19eb5e11b27854559374357375134d40c744f
+  LCSlideMenu: c361babaaf23a0c9875a6c9d9918c17e1f5c596e
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  OneSignal: 1dcb1fd96f9c15a5c352dcfcab9106a7c15eced7
+  OpalImagePicker: efc91612ef5b3849314801f68fddc26200da9435
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SDWebImage: a72e880a8fe0f7fc31efe15aaed443c074d2a80c
+
+PODFILE CHECKSUM: af8d08b16478a7f0f32f3435f22ccaeab77f1759
+
+COCOAPODS: 1.11.2

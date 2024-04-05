@@ -1,0 +1,6 @@
+framework module LCSlideMenu {
+  umbrella header "LCSlideMenu-umbrella.h"
+
+  export *
+  module * { export * }
+}
